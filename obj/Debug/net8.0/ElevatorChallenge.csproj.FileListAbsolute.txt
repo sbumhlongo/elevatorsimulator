@@ -99,3 +99,4 @@ C:\Users\sbusiso.mhlongo\Downloads\simulator\ElevatorChallenge\obj\Debug\net8.0\
 C:\Users\sbusiso.mhlongo\Downloads\simulator\ElevatorChallenge\obj\Debug\net8.0\ElevatorChallenge.pdb
 C:\Users\sbusiso.mhlongo\Downloads\simulator\ElevatorChallenge\obj\Debug\net8.0\ElevatorChallenge.genruntimeconfig.cache
 C:\Users\sbusiso.mhlongo\Downloads\simulator\ElevatorChallenge\obj\Debug\net8.0\ref\ElevatorChallenge.dll
+C:\Users\sbusiso.mhlongo\Downloads\simulator\ElevatorChallenge\obj\Debug\net8.0\ElevatorChallenge.sourcelink.json

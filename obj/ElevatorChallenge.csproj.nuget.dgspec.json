@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sbusiso.mhlongo\\Downloads\\simulator\\ElevatorChallenge\\ElevatorChallenge.csproj": {}
+    "C:\\Users\\sbusiso.mhlongo\\Music\\simulator\\ElevatorChallenge\\ElevatorChallenge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sbusiso.mhlongo\\Downloads\\simulator\\ElevatorChallenge\\ElevatorChallenge.csproj": {
+    "C:\\Users\\sbusiso.mhlongo\\Music\\simulator\\ElevatorChallenge\\ElevatorChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sbusiso.mhlongo\\Downloads\\simulator\\ElevatorChallenge\\ElevatorChallenge.csproj",
+        "projectUniqueName": "C:\\Users\\sbusiso.mhlongo\\Music\\simulator\\ElevatorChallenge\\ElevatorChallenge.csproj",
         "projectName": "ElevatorChallenge",
-        "projectPath": "C:\\Users\\sbusiso.mhlongo\\Downloads\\simulator\\ElevatorChallenge\\ElevatorChallenge.csproj",
+        "projectPath": "C:\\Users\\sbusiso.mhlongo\\Music\\simulator\\ElevatorChallenge\\ElevatorChallenge.csproj",
         "packagesPath": "C:\\Users\\sbusiso.mhlongo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sbusiso.mhlongo\\Downloads\\simulator\\ElevatorChallenge\\obj\\",
+        "outputPath": "C:\\Users\\sbusiso.mhlongo\\Music\\simulator\\ElevatorChallenge\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

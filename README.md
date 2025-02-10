@@ -12,7 +12,7 @@ This is a console-based Elevator Management System that simulates the operation 
 ### Clone the Repository
 If you haven't already cloned the repository, run the following command:
 ```sh
-git clone https://github.com/your-repository/ElevatorChallenge.git
+git clone https://github.com/sbumhlongo/ElevatorChallenge.git
 ```
 
 ### Navigate to the Project Directory
